@@ -4,7 +4,7 @@ tree-sitter-cli needed
 
 ## init.lua changes
 
-must change init.lua undodir path based on os
+must change init.lua undodir path based on os\n
 windows: C:\\Users\\fifok\\AppData\\Local\\nvim\\undodir
 linux: /home/filpos/.config/nvim/undodir
 
