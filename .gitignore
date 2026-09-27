@@ -1,2 +1,4 @@
 undodir
 nvim-pack-lock.json
+doc
+lua
