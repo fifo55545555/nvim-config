@@ -401,7 +401,8 @@ require("mason-tool-installer").setup({
         "stylua",
         "basedpyright",
         "ruff",
-        "arduino-language-server"
+        "arduino-language-server",
+        "topiary"
     }
 })
 
